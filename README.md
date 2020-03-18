@@ -1,4 +1,4 @@
-# Google Cloud Platform Main Information.
+# Google Cloud Platform Main Information (GCP).
 
 
 
